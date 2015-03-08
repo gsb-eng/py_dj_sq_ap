@@ -1,2 +1,2 @@
-Python  application integrated with Django, Sqlalchemy, Apach Django, Sqlalchemy, Apachee
+Python  application integrated with Django, Sqlalchemy, Apachee
 -----------------------------------------------------------------------------------------
