@@ -6,5 +6,5 @@ from integrator.web import urls
 urlpatterns = patterns(
     '',
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^', include(urls)),
+    url(r'', include(urls)),
 )
