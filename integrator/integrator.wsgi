@@ -1,4 +1,3 @@
-/prog/FOSS/py_dj_sq_ap/integrator
 import os
 import sys
 
