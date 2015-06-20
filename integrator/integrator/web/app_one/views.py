@@ -8,6 +8,4 @@ import datetime
 
 def app_one_home(request):
     now = datetime.datetime.now()
-
-    # To Do: Add a simple template.
-    return HttpResponse(html)
+    return HttpResponse(now)
